@@ -1,13 +1,13 @@
 ---
 title: "Preview Mode for Static Generation"
 excerpt: "amazon mondragon656."
-coverImage: "/assets/blog/preview/cover.jpg"
+coverImage: "/assets/blog/preview/menu.png"
 date: "2020-03-16T05:35:07.322Z"
 author:
   name: Joe Haddad
   picture: "/assets/blog/authors/joe.jpeg"
 ogImage:
-  url: "/assets/blog/preview/cover.jpg"
+  url: "/assets/blog/preview/menu.png"
 ---
 
 amazon mondragon. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
