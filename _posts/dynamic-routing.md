@@ -1,10 +1,10 @@
 ---
-title: "Dynamic Routing and Static Generation"
-excerpt: "amazon mojmkbndragon."
+title: "Proiektuaren helburua"
+excerpt: "2030 agenda"
 coverImage: "/assets/blog/dynamic-routing/menu.jpg"
-date: "2020-03-16T05:35:07.322Z"
+date: "2025-01-17T05:35:07.322Z"
 author:
-  name: JJ Kasper
+  name: Informatikako 1. maila
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/dynamic-routing/menu.jpg"

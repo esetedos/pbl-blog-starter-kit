@@ -4,8 +4,8 @@ excerpt: "amazon mondragon656."
 coverImage: "/assets/blog/preview/menu.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
-  name: Joe Haddad
-  picture: "/assets/blog/authors/joe.jpeg"
+  name: 
+  picture: 
 ogImage:
   url: "/assets/blog/preview/menu.jpg"
 ---
