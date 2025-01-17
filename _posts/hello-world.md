@@ -1,5 +1,5 @@
 ---
-title: "Learn How to Pre-render Pages Using Static Generation with Next.js"
+title: "texto 1"
 excerpt: "amazon mondragon33."
 coverImage: "/assets/blog/hello-world/menu.jpg"
 date: "2020-03-16T05:35:07.322Z"
