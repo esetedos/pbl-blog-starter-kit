@@ -1,13 +1,13 @@
 ---
 title: "Learn How to Pre-render Pages Using Static Generation with Next.js"
 excerpt: "amazon mondragon33."
-coverImage: "/assets/blog/hello-world/menu.png"
+coverImage: "/assets/blog/hello-world/menu.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
   name: Tim Neutkens
   picture: "/assets/blog/authors/tim.jpeg"
 ogImage:
-  url: "/assets/blog/hello-world/menu.png"
+  url: "/assets/blog/hello-world/menu.jpg"
 ---
 
 amazon mondragon. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
