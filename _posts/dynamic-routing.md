@@ -1,5 +1,5 @@
 ---
-title: "Proiektuaren helburua"
+title: "Proiektuaren izena hemen"
 excerpt: "2030 agenda"
 coverImage: "/assets/blog/dynamic-routing/menu.jpg"
 date: "2025-01-17T05:35:07.322Z"
