@@ -1,6 +1,6 @@
 ---
 title: "GJH-ak"
-excerpt: "amazon mondragon656."
+excerpt: "Garapen Jasangarrirako Helburuak"
 coverImage: "/assets/blog/preview/ODS.jpg"
 author:
   name: Betetzen diren GJH-ak
