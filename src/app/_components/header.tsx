@@ -6,7 +6,7 @@ const Header = () => {
       <Link href="/" className="hover:underline">
         PBL
       </Link>
-      .
+      
     </h2>
   );
 };
