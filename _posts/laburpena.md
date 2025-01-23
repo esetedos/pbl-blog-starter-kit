@@ -4,7 +4,7 @@ excerpt: "2030 agenda"
 coverImage: "/assets/blog/dynamic-routing/menu.jpg"
 author:
   name: Informatikako 1. maila
-  picture: "/assets/blog/authors/global-goals.jpeg"
+  picture: "/assets/blog/authors/global-goals.jpg"
 ogImage:
   url: "/assets/blog/dynamic-routing/menu.jpg"
 ---
@@ -14,5 +14,3 @@ Proiektu honek 2030 Agendan adierazitako ingurumen-erronka garrantzitsuenak jorr
 Jokatzeko moduak ingurumen-arazoak ulertzen laguntzeko diseinatuta dago, jokalariei ingurunea hobetzeko ekintzak egiteko hainbat egoera aurkezten dizkielarik. Jokoak erantzukizun kolektiboaren garrantzia eta pertsona bakoitzak baliabide naturalak babesteko, kutsadura murrizteko eta berotze globala saihesteko duen papera azpimarratzen du.
 
 Jokatzeko eta hezkuntza uztartuz, proiektuak aldaketa positiboa sustatzea du helburu, jokalariei beren ekintzen garrantziaz jabetzen lagunduz, etorkizun jasangarriago baten aldeko ekarpena egiteko. Esperientzia murgiltzaile honen bidez, jokalariak beren ohiturei buruz hausnartzera eta eguneroko bizitzan ekologikoki aritzeko erabakiak hartzera animatzen dira. Jokoak ingurumen-hezkuntzarako tresna gisa balio du, jokalariei praktika jasangarriak hartzera bultzatuz, aldi berean esperientzia dibertigarri eta erakargarri bat gozatzen dutelarik.
-
-![Menua](/assets/blog/dynamic-routing/menu.jpg)
