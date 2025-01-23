@@ -1,12 +1,12 @@
 ---
 title: "Deskribapena"
 excerpt: "Jokuaren azalpena"
-coverImage: "/assets/blog/dynamic-routing/menu.jpg"
+coverImage: "/assets/blog/dynamic-routing/ejemplo.jpg"
 author:
   name: Deskribapen zehatza
   picture: "/assets/blog/preview/pesca.jpg"
 ogImage:
-  url: "/assets/blog/dynamic-routing/menu.jpg"
+  url: "/assets/blog/dynamic-routing/ejemplo.jpg"
 ---
 
 
