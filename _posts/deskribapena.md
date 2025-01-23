@@ -1,10 +1,10 @@
 ---
 title: "Deskribapena"
-excerpt: "amazon mondragon33."
+excerpt: "Proiektu honek 2030 Agendan adierazitako ingurumen-erronka garrantzitsuenak jorratzen dituen bideojoko bat aurkezten du. Jokoak jokalariak ingurumenarekiko kontzientzia hartzera eta kutsadura, hondakinen kudeaketa eta klima-aldaketa bezalako gai garrantzitsuekin harremanetan jartzera bultzatzen ditu, modu interaktiboan eta dibertigarrian."
 coverImage: "/assets/blog/hello-world/menu.jpg"
 author:
-  name: 
-  picture: 
+  name: ~ ~ ~ ~
+  picture: "/assets/blog/hello-world/personaje.jpg"
 ogImage:
   url: "/assets/blog/hello-world/menu.jpg"
 ---

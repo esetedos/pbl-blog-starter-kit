@@ -1,10 +1,10 @@
 ---
-title: "Preview Mode for Static Generation"
+title: "GJH-ak"
 excerpt: "amazon mondragon656."
 coverImage: "/assets/blog/preview/menu.jpg"
 author:
-  name: 
-  picture: 
+  name: ~ ~ ~ ~
+  picture: "/assets/blog/authors/global-goals.jpg"
 ogImage:
   url: "/assets/blog/preview/menu.jpg"
 ---

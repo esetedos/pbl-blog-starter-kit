@@ -1,10 +1,10 @@
 ---
 title: "Laburpena"
-excerpt: "2030 agenda"
+excerpt: "Jokuaren laburpena"
 coverImage: "/assets/blog/dynamic-routing/menu.jpg"
 author:
-  name: Informatikako 1. maila
-  picture: "/assets/blog/authors/global-goals.jpg"
+  name: 2030 agenda
+  picture: "/assets/blog/preview/pesca.jpg"
 ogImage:
   url: "/assets/blog/dynamic-routing/menu.jpg"
 ---
